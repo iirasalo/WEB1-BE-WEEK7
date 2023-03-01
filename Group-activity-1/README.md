@@ -4,9 +4,6 @@
 
 - Each group will work on a shared repository
 - Follow this [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) to invite your group members as collaborators
-- Create a new branch within your repository.
-  - Name of the branch: `phase1`
-  - [Refresher: How to?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository)
 
 ## Task 2: Skeleton website
 
